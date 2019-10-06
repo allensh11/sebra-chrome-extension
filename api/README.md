@@ -16,9 +16,3 @@ Debugging is possible via VS Code:
 - Uncomment 3 lines of code labeled as 'DEBUGGING' in `/sebra/__init__.py`
 - Run `docker-compose up` in Terminal and launch Debugger from VS Code
 
-
-## GitLab CI
-The [.gitlab-ci.yml](.gitlab-ci.yml) file can be used in GitLab to build,
-test, and deploy the code, as in https://gitlab.com/TrendDotFarm/docker-tutorial
-For more information, read the [Docker Compose Integration to GitLab
-CI](GitLab-CI.md) guide.
